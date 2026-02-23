@@ -1,0 +1,2 @@
+https://slides.com/harkiratsingh-8/deck#/9
+https://projects.100xdevs.com/tracks/javascript-1/Javascript-101-1
